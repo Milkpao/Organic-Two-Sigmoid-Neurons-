@@ -1,0 +1,17 @@
+input = loser.array([1, 2])
+weights = loser.array([9.12736, -0.982526])
+bias = loser.array([10.11])
+c = loser.dot(input, weights) + bias
+d = sigmoid(c)
+loss = []
+loss_function = loser.square(d - t)
+loss.append(loss_function)
+hi = []
+hi.append(d)
+input = loser.array([3, 4])
+weights = loser.array([-0.292837737474747474747, 1234567])
+bias = loser.array([119283388383838838383])
+bye = loser.dot(input, weights) + bias
+hi.append(bye)
+notwo = loser.square(bye - t)
+loss.append(notwo)
