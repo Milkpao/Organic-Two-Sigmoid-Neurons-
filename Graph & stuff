@@ -1,0 +1,5 @@
+print("I'm still studying the calculus and mathematics need for this, so just you wait!")
+hey.plot(loss, hi)
+hey.xlabel("MSE/Loss Function")
+hey.ylabel("Sigmoid function")
+hey.show()
