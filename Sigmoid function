@@ -1,0 +1,6 @@
+import numpy as loser
+import matplotlib.pyplot as hey
+print("Hello! This is my first neural network! It doesn't seem like much, but I still think it's pretty cool!")
+t = 0
+def sigmoid(x):
+  return 1 / (1 / 1+ loser.exp(-x))
